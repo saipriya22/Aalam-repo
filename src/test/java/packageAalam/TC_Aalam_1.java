@@ -17,9 +17,16 @@ public class TC_Aalam_1 {
 			driver = new ChromeDriver();  
 			
 		}
-	    
-		@Test				
-		public void testEasy() {	
+	   
+	    @Test(priority = 0)			
+		public void test0() {	
+			driver.get("https://aalamsoft.com/");  
+			String title = driver.getTitle();				 
+			AssertJUnit.assertTrue(title.contains("Aalam Info Solutions | Aalam")); 		
+		}	
+			
+	    @Test(priority = 1)				
+		public void test1() {	
 			driver.get("https://aalamsoft.com/");  
 			String title = driver.getTitle();				 
 			AssertJUnit.assertTrue(title.contains("Aalam Info Solutions | Aalam")); 		
