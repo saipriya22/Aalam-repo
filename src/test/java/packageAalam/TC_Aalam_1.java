@@ -39,6 +39,14 @@ public class TC_Aalam_1 {
 			AssertJUnit.assertTrue(title.contains("Aalam Info Solutions | Aalam")); 		
 		}	
 			
+	    @Test(priority = 3)				
+	 		public void test3() {	
+	 			driver.get("https://aalamsoft.com/");  
+	 			String title = driver.getTitle();				 
+	 			AssertJUnit.assertTrue(title.contains("Aalam Info Solutions | Aalam")); 		
+	 		}	
+	 			
+	    
 		@AfterTest
 		public void afterTest() {
 			driver.quit();			
