@@ -91,7 +91,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">1 method,   1 passed</span>
+                    <span class="method-stats">2 methods,   2 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -102,7 +102,12 @@
                     <div class="method-list-content passed suite-AalamSuite">
                       <span>
                         <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-AalamSuite" title="packageAalam.TC_Aalam_1" hash-for-method="testEasy">testEasy</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-AalamSuite" title="packageAalam.TC_Aalam_1" hash-for-method="test0">test0</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-AalamSuite" title="packageAalam.TC_Aalam_1" hash-for-method="test1">test1</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-AalamSuite -->
@@ -125,9 +130,16 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="testEasy">
-                  </a> <!-- testEasy -->
-                  <span class="method-name">testEasy</span>
+                  <a name="test0">
+                  </a> <!-- test0 -->
+                  <span class="method-name">test0</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="test1">
+                  </a> <!-- test1 -->
+                  <span class="method-name">test1</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -184,16 +196,20 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(1);
+data.addRows(2);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'testEasy')
+data.setCell(0, 1, 'test0')
 data.setCell(0, 2, 'packageAalam.TC_Aalam_1')
-data.setCell(0, 3, 14463);
+data.setCell(0, 3, 49081);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'test1')
+data.setCell(1, 2, 'packageAalam.TC_Aalam_1')
+data.setCell(1, 3, 17963);
 window.suiteTableData['AalamSuite']= { tableData: data, tableDiv: 'times-div-AalamSuite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 14 seconds</span>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
               <div id="times-div-AalamSuite">
               </div> <!-- times-div-AalamSuite -->
             </div> <!-- times-div -->
@@ -225,12 +241,16 @@ return data;
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-test before -->
               <div class="test-method">
-                <span class="method-name">testEasy</span>
-                <span class="method-start">3929 ms</span>
+                <span class="method-name">test0</span>
+                <span class="method-start">27290 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">test1</span>
+                <span class="method-start">76382 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-test after">
                 <span class="method-name">afterTest</span>
-                <span class="method-start">18395 ms</span>
+                <span class="method-start">94346 ms</span>
               </div> <!-- configuration-test after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
