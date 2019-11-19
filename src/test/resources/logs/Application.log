@@ -1,0 +1,95 @@
+21/03/2019 19:10:32 devpinoyLogger Xpath file loaded !!!
+21/03/2019 19:11:11 devpinoyLogger UserName text box is tapped
+21/03/2019 19:11:11 devpinoyLogger UserName text box is cleared
+21/03/2019 19:11:12 devpinoyLogger UserName is keyedin
+21/03/2019 19:11:12 devpinoyLogger  Password is clicked
+21/03/2019 19:11:13 devpinoyLogger Password  is keyed in
+21/03/2019 19:11:14 devpinoyLogger Inventory Site selection button is tapped
+21/03/2019 19:11:14 devpinoyLogger Inventory site is selected
+21/03/2019 19:11:15 devpinoyLogger Login button is tapped
+21/03/2019 19:11:16 devpinoyLogger Login button is tapped
+21/03/2019 19:11:19 devpinoyLogger Login Successfull
+21/03/2019 19:12:35 devpinoyLogger Tapping the Open Order
+21/03/2019 19:12:41 devpinoyLogger Tapping on Deliver order button
+21/03/2019 19:12:43 devpinoyLogger Selecting item 1
+21/03/2019 19:12:48 devpinoyLogger Delivery DOI continue button
+21/03/2019 19:12:49 devpinoyLogger Reading type Gauged is selected
+21/03/2019 19:12:50 devpinoyLogger Delivery continue Selection
+21/03/2019 19:12:51 devpinoyLogger Tapping on Tank begin button
+21/03/2019 19:12:53 devpinoyLogger Tapping on Keydraft1
+21/03/2019 19:12:54 devpinoyLogger Tapping on draftBowFeet text box
+21/03/2019 19:12:54 devpinoyLogger Tapping on DbtnPick6 text box
+21/03/2019 19:12:55 devpinoyLogger Tapping on draftBowinch text box
+21/03/2019 19:12:55 devpinoyLogger Tapping on DbtnPick6 text box
+21/03/2019 19:12:56 devpinoyLogger Tapping on draftSternFeet text box
+21/03/2019 19:12:57 devpinoyLogger Tapping on DbtnPick2 text box
+21/03/2019 19:12:57 devpinoyLogger Tapping on draftSterninch text box
+21/03/2019 19:12:58 devpinoyLogger Tapping on DbtnPick2 text box
+21/03/2019 19:12:58 devpinoyLogger Tapping on EB81DPan text box
+21/03/2019 19:12:58 devpinoyLogger Tapping on KeyEB8P1
+21/03/2019 19:12:59 devpinoyLogger Tapping on EB81DFeetP text box
+21/03/2019 19:12:59 devpinoyLogger Tapping on PbtnPick2 text box
+21/03/2019 19:13:00 devpinoyLogger Tapping on EB81DInchP text box
+21/03/2019 19:13:00 devpinoyLogger Tapping on PbtnPick2 text box
+21/03/2019 19:13:01 devpinoyLogger Tapping on KeyEB8S1
+21/03/2019 19:13:01 devpinoyLogger Tapping on EB81DFeetS text box
+21/03/2019 19:13:02 devpinoyLogger Tapping on SbtnPick2 text box
+21/03/2019 19:13:03 devpinoyLogger Tapping on EB81DInchS text box
+21/03/2019 19:13:03 devpinoyLogger Tapping on SbtnPick2 text box
+21/03/2019 19:13:04 devpinoyLogger Tapping on EB82DPan text box
+21/03/2019 19:13:04 devpinoyLogger Tapping on KeyEB8P2
+21/03/2019 19:13:05 devpinoyLogger Tapping on EB82DFeetP text box
+21/03/2019 19:13:05 devpinoyLogger Tapping on PbtnPick2 text box
+21/03/2019 19:13:06 devpinoyLogger Tapping on EB82DInchP text box
+21/03/2019 19:13:06 devpinoyLogger Tapping on PbtnPick2 text box
+21/03/2019 19:13:07 devpinoyLogger Tapping on KeyEB8S2
+21/03/2019 19:13:07 devpinoyLogger Tapping on EB82DFeetS text box
+21/03/2019 19:13:08 devpinoyLogger Tapping on SbtnPick2 text box
+21/03/2019 19:13:08 devpinoyLogger Tapping on EB82DInchS text box
+21/03/2019 19:13:08 devpinoyLogger Tapping on SbtnPick2 text box
+21/03/2019 19:13:09 devpinoyLogger Tapping on EB83DPan text box
+21/03/2019 19:13:10 devpinoyLogger Tapping on KeyEB8P3
+21/03/2019 19:13:10 devpinoyLogger Tapping on EB83DFeetP text box
+21/03/2019 19:13:11 devpinoyLogger Tapping on PbtnPick2 text box
+21/03/2019 19:13:12 devpinoyLogger Tapping on EB83DInchP text box
+21/03/2019 19:13:12 devpinoyLogger Tapping on PbtnPick2 text box
+21/03/2019 19:13:12 devpinoyLogger Tapping on KeyEB8S3
+21/03/2019 19:13:13 devpinoyLogger Tapping on EB83DFeetS text box
+21/03/2019 19:13:13 devpinoyLogger Tapping on SbtnPick2 text box
+21/03/2019 19:13:14 devpinoyLogger Tapping on EB83DInchS text box
+21/03/2019 19:13:14 devpinoyLogger Tapping on SbtnPick2 text box
+21/03/2019 19:13:15 devpinoyLogger Tapping on GaugeCalcBtn button
+21/03/2019 19:13:16 devpinoyLogger Tapping on tnkCalcBtn button
+21/03/2019 19:13:19 devpinoyLogger Tapping on Tank end button
+21/03/2019 19:13:20 devpinoyLogger Tapping on Keydraft2
+21/03/2019 19:13:20 devpinoyLogger Tapping on 1draftBowFeet text box
+21/03/2019 19:13:21 devpinoyLogger Tapping on 1DbtnPick6 text box
+21/03/2019 19:13:22 devpinoyLogger Tapping on 1draftBowinch text box
+21/03/2019 19:13:22 devpinoyLogger Tapping on 1DbtnPick6 text box
+21/03/2019 19:13:23 devpinoyLogger Tapping on 1draftSternFeet text box
+21/03/2019 19:13:23 devpinoyLogger Tapping on 1DbtnPick2 text box
+21/03/2019 19:13:24 devpinoyLogger Tapping on 1draftSterninch text box
+21/03/2019 19:13:24 devpinoyLogger Tapping on 1DbtnPick2 text box
+21/03/2019 19:13:25 devpinoyLogger Tapping on 1EB81DPan text box
+21/03/2019 19:13:25 devpinoyLogger Tapping on KeyEB8P1
+21/03/2019 19:13:26 devpinoyLogger Tapping on 1EB81DFeetP text box
+21/03/2019 19:13:26 devpinoyLogger Tapping on 1btnPick2 text box
+21/03/2019 19:13:27 devpinoyLogger Tapping on 1EB81DInchP text box
+21/03/2019 19:13:27 devpinoyLogger Tapping on 1btnPick2 text box
+21/03/2019 19:13:28 devpinoyLogger Tapping on KeyEB8S1
+21/03/2019 19:13:28 devpinoyLogger Tapping on 1EB81DFeetS text box
+21/03/2019 19:13:29 devpinoyLogger Tapping on 1SbtnPick2 text box
+21/03/2019 19:13:29 devpinoyLogger Tapping on 1EB81DInchS text box
+21/03/2019 19:13:30 devpinoyLogger Tapping on 1SbtnPick2 text box
+21/03/2019 19:13:31 devpinoyLogger Tapping on 1EB82DPan text box
+21/03/2019 19:13:31 devpinoyLogger Tapping on KeyEB8P2
+21/03/2019 19:13:32 devpinoyLogger Tapping on 1EB82DFeetP text box
+21/03/2019 19:13:32 devpinoyLogger Tapping on 1btnPick2 text box
+21/03/2019 19:13:33 devpinoyLogger Tapping on 1EB82DInchP text box
+21/03/2019 19:13:33 devpinoyLogger Tapping on 1btnPick2 text box
+21/03/2019 19:13:34 devpinoyLogger Tapping on KeyEB8S2
+21/03/2019 19:13:34 devpinoyLogger Tapping on 1EB82DFeetS text box
+21/03/2019 19:13:35 devpinoyLogger Tapping on 1SbtnPick2 text box
+21/03/2019 19:13:35 devpinoyLogger Tapping on 1EB82DInchS text box
+21/03/2019 19:13:36 devpinoyLogger Tapping on 1SbtnPick2 text box
+21/03/2019 19:13:37 devpinoyLogger Tapping on 1EB83DPan text box
